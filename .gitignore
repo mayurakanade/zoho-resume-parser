@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Local data
+data/Resumes/
+candidates.xlsx
+
+# Environment and logs
+.env
+*.log
+
+# Editors / OS files
+.vscode/
+.DS_Store

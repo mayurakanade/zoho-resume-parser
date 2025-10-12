@@ -1,0 +1,6 @@
+**Libraries Used:**
+  - `re` (Regular Expressions) – to extract text patterns  
+  - `os` – to handle files  
+  - `pandas` – to store and export structured data  
+  - `openpyxl` – for Excel formatting  
+  - `docx`, `pdfPLUMBER` – for reading resumes  
