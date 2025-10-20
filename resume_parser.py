@@ -52,7 +52,7 @@
     "# -------------------------\n",
     "IMAP_SERVER = \"imap.zoho.com\"\n",
     "IMAP_PORT = 993\n",
-    "EMAIL_ACCOUNT = \"aparna.g@abhinavdcs.in\"   # <-- your Zoho email\n",
+    "EMAIL_ACCOUNT = \"your_zoho_email\"   # <-- your Zoho email\n",
     "PASSWORD = \"your_app_password\"              # <-- your Zoho app password\n",
     "MAILBOX = \"INBOX\"\n",
     "SUBJECT_KEYWORD = \"Resume\"\n",
